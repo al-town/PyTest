@@ -14,3 +14,5 @@ The /API directory contains files for task 19.7.2
 The api library is written in a class. The base_url variable is used when generating the url for the request.
 Methods have a subgeneric description.
 Tests check the work of methods using the api library.
+
+Bug has been detected in the GET-request for the site's API-login: the user login with any username and password.
