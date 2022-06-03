@@ -5,7 +5,7 @@ The /Calculator directory contains files for task 19.2.3
 <li>Calculator.py contains the main logic of the program</li>
 <li>first_test.py contains several tests for Calculator.py</li>
 </ul> 
-The /API directory contains files for task 19.2.3
+The /API directory contains files for task 19.7.2
 <ul>
 <li>settings.py contains valid test data</li>
 <li>api.py contains an interface for interacting with the application</li>
