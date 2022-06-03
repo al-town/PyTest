@@ -18,6 +18,6 @@ class TestCalc:
         assert self.calc.division(self, 102, 3) == 34
 
     def test_subtraction_calculate_correctly(self):
-        assert self.calc.subtraction(self, 48, 32) == 16
+        assert self.calc.subtraction(self, 48, 32) == 16 
 
 
