@@ -1,5 +1,5 @@
 # PyTest
-Tasks for test automation for educational courses
+Tasks for test automation for educational courses  
 The /Calculator directory contains files for task 19.2.3
 <ul>
 <li>Calculator.py contains the main logic of the program</li>
