@@ -1,5 +1,4 @@
 import pytest
-import string
 from api import PetStore
 from settings import valid_email, valid_password, user_data1, user_data2, pet_data, generate_string
 
