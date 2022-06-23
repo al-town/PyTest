@@ -134,3 +134,11 @@ class PetStore:
         except json.decoder.JSONDecodeError:
             result = res.text
         return status, result
+
+
+# from settings import generate_string
+# ps = PetStore()
+# data = f'"id": "12", "username": "{generate_string(255)}", "firstName": "Tonya", "lastName": "Brighton", ' \
+#            '"email": "HelloKitty@test.com", "password": "123321", "phone": "+7999123456", "userStatus": 0'
+# status, result = ps.post_api_add_user("{" + data + "}")
+# print(result.get('message'))
