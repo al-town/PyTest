@@ -9,7 +9,7 @@ The /API directory contains files for task 19.7.2
 <ul>
 <li>settings.py contains valid test data</li>
 <li>api.py contains an interface for interacting with the application</li>
-<li>/tests directory contains file test_pet_store.py with 7 positive and 3 negative tests</li>
+<li>/tests directory contains files: test_pet_good.py with some positive and test_pet_bad.py with some negative tests</li>
 </ul> 
 The api library is written in a class. The base_url variable is used when generating the url for the request.
 Methods have a subgeneric description.
