@@ -16,3 +16,9 @@ Methods have a subgeneric description.
 Tests check the work of methods using the api library.
 
 Bug has been detected in the GET-request for the site's API-login: the user login with any username and password.
+
+The /test_selenium directory contains file for task 25.5.1
+<ul>
+<li>test_petfriend.py contains several tests using 'find_elements', 'WebDriverWait' and 'implicitly_wait' from selenium</li>
+</ul> 
+
